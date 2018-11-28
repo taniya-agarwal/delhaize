@@ -1,0 +1,17 @@
+.gridBox{
+  border: 1px solid #eee;
+  height: 50px;
+  width: 50px
+}
+
+.gridBox.focused{
+  border: 1px solid red;
+}
+
+.container{
+  width: 208px;
+}
+
+input{
+  text-align: center;
+}
